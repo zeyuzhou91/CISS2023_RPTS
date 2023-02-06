@@ -1,7 +1,7 @@
-# Simulation for Chapter 6 on RPTS
+# RPTS Simulation
 
-This folder contains the simulation code for Chapter 6 of Zeyu Zhou's PhD dissertation
-on RPTS. 
+Simulation code for the paper "Improving Particle Thompson Sampling through Regenerative Particles" presented at 
+the 57th Annual Conference on Information Sciences and Systems, Baltimore, MD, USA
 
 ## Description of folders
 
